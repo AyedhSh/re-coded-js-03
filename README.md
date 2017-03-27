@@ -33,6 +33,7 @@ If the code has no syntax errors, your linter should add a congratulatory messag
 
 **Here, order matters everywhere *except* inside quotation marks. `["(]'}"]` is perfectly valid code.**
 
+## Examples
 When provided the following code with no syntax errors...
 ```js
 function () {
