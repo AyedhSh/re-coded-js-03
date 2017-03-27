@@ -1,0 +1,18 @@
+div[contenteditable]#code {
+  width: 100%;
+  height: 8em;
+  border: 1px solid #000;
+  padding: 1em;
+  outline: none;
+  line-height: 1em;
+  font-family: monospace;
+}
+
+button#lint {
+  width: 100%;
+  height: 4em;
+  background-color: #222;
+  font: bold 2em monospace;
+  color: #FFF;
+  outline: none;
+}
