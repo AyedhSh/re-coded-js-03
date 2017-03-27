@@ -1,4 +1,4 @@
-div[contenteditable]#code {
+textarea#code {
   width: 100%;
   height: 8em;
   border: 1px solid #000;
@@ -6,6 +6,8 @@ div[contenteditable]#code {
   outline: none;
   line-height: 1em;
   font-family: monospace;
+  resize: none;
+  overflow: auto;
 }
 
 button#lint {
